@@ -1,0 +1,16 @@
+{
+  "name": "musicme-server",
+  "version": "1.0.0",
+  "description": "The web service of MusicMe web-app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guo Jiawei",
+  "license": "ISC",
+  "dependencies": {
+    "2015": "0.0.1",
+    "dominant-color": "0.0.1",
+    "express": "^4.16.3"
+  }
+}

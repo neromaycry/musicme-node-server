@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "Lost Stars",
+            "album": "Begin Again",
+            "artist": "Keira Knightley",
+            "songUrl": "http://132.232.187.54:9000/LostStars.mp3",
+            "coverUrl": "http://p1.music.126.net/Blb_Gi0AJTWIEBLr189F4A==/18791753232142320.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0"
+        },
+        {
+            "id": 1,
+            "name": "Paper Plane",
+            "album": "無罪モラトリアム",
+            "artist": "Plastic Tree",
+            "songUrl": "http://132.232.187.54:9000/PaperPlane.mp3",
+            "coverUrl": "http://p1.music.126.net/skfBEL349YywJM83nmeFBA==/109951163318839541.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0"
+        },
+        {
+            "id": 2,
+            "name": "You Go",
+            "album": "For Long Tomorrow",
+            "artist": "Toe",
+            "songUrl": "http://132.232.187.54:9000/YouGo.mp3",
+            "coverUrl": "http://p1.music.126.net/WJWbiMnUbaxRkw4kSZJuNQ==/109951163115410595.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0"
+        }
+    ]
+}
